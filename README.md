@@ -1,6 +1,6 @@
 ---
 title: F7-AI-SingularityNet
-description: THow can we create a mutually beneficial partnership with SingularityNet and other A.I. developers and researchers?
+description: How can we create a mutually beneficial partnership with SingularityNet and other A.I. developers and researchers?
 Ideascale: https://cardano.ideascale.com/a/campaign-home/26247
 ---
 ![2021-11-24 (1)](https://user-images.githubusercontent.com/25156451/143220952-f8450975-d63d-44e7-8c6c-497d50fa58a4.png)
